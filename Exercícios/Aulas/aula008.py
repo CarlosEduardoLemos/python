@@ -1,0 +1,2 @@
+import emoji
+emoji.emojize
