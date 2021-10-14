@@ -59,4 +59,3 @@ for p in humanos:
 print(f'Temos {totmai} maiores e {totmen} menores de idades')
 print('-='*15)
 '''
-# A parte que está dando erro tem a correção no docs

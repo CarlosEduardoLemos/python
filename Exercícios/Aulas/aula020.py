@@ -3,7 +3,6 @@ def lin():
     print('-' * 30)
 
 
-#Por questão de estética, o pycharm prefere que pule 2 linhas entre o def e o prgrama que vai rodar
 print('-' * 30)
 print('Curso em vídeo')
 print('-' * 30)
@@ -28,7 +27,7 @@ título('Curso em vídeo')
 título('Python é muito bom')
 título('Oi')
 
-#Um pouco mais da prática:
+
 a = 4
 b = 5
 s = a + b
@@ -44,7 +43,7 @@ print(s)
 
 print()
 
-#Pode se notar que em alguns trechos se repete.
+
 def soma(a, b):
     print(f'A = {a} e B = {b}')
     s = a + b
@@ -57,7 +56,7 @@ soma(2, 1)
 
 print()
 
-#passando por parâmetro porém não sabendo quantos valores vão ser passados. Poucas linguagens de programação consegue fazer isso.
+
 def contador(* num):
     tam = len(num)
     print(f'Recebi os valores {num} e são ao todo {tam} números')

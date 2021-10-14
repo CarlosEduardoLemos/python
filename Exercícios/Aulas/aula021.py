@@ -67,7 +67,7 @@ r2 = somar(2, 5)
 r3 = somar()
 print(f'Os resultados foram {r1}, {r2}, {r3}')
 
-#Parte prática
+
 print('+' * 20)
 
 
