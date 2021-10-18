@@ -3,7 +3,8 @@ a = (2, 5, 4)
 b = (5, 8, 1, 2)
 c = a + b
 d = b + a
-pessoa = ('Carlos', 22, 'M', 100.00)# A tupla é um vetor comparada com outras linguagens mas no python pode colocar numeros e str
+pessoa = ('Carlos', 22, 'M', 100.00)
+# A tupla é um vetor comparada com outras linguagens mas no python pode colocar numeros e str
 
 for cont in range(0, len(lanche)):
     print(f'Eu vou comer {lanche[cont]} na posição {cont}')
@@ -32,4 +33,4 @@ print(d.index(5, 1))
 
 print(pessoa)
 del(pessoa)#Deleta a tupla
-#print(pessoa)#Já que deleita a tupla pessoa acima, no termonal vai aparecer que não existe a tupla pessoa
+#print(pessoa)#Já que deleita a tupla pessoa acima, no terminal vai aparecer que não existe a tupla pessoa
