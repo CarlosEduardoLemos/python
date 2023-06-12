@@ -7,11 +7,7 @@ Este repositório contém o material de estudo utilizado no curso de Python da p
 O curso é dividido em três partes principais:
 
 1. **Mundo 1**: Introdução ao Python
-   - Variáveis e tipos primitivos
-   - Operadores aritméticos
-   - Módulos e pacotes
-   - Estrutura de decisão
-   - Estrutura de repetição
+   - Primeiro mundo do curso introduz a linguagem, seus conceitos e ensina alguns recursos básicos.
 
 2. **Mundo 2**: Estruturas de dados
    - O segundo mundo apresenta as estruturas de repetição, muito importantes para qualquer linguagem, o professor explica sobre os comandos if, else, for e while e suas usabilidades.
