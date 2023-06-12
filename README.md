@@ -14,11 +14,7 @@ O curso é dividido em três partes principais:
    - Estrutura de repetição
 
 2. **Mundo 2**: Estruturas de dados
-   - Listas
-   - Tuplas
-   - Dicionários
-   - Funções
-   - Modularização
+   - O segundo mundo apresenta as estruturas de repetição, muito importantes para qualquer linguagem, o professor explica sobre os comandos if, else, for e while e suas usabilidades.
 
 3. **Mundo 3**: Manipulação de dados
    - O terceiro mundo apresenta as estruturas de dados, muito importantes para qualquer linguagem, o professor explica sobre as estruturas de tuplas, listas, dicionários, além disso, ele também ensina funções, módulos e pacotes. 
