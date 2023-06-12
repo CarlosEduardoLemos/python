@@ -21,11 +21,7 @@ O curso é dividido em três partes principais:
    - Modularização
 
 3. **Mundo 3**: Manipulação de dados
-   - Tratamento de erros
-   - Arquivos
-   - Banco de dados
-   - Interface gráfica
-   - Projeto final
+   - O terceiro mundo apresenta as estruturas de dados, muito importantes para qualquer linguagem, o professor explica sobre as estruturas de tuplas, listas, dicionários, além disso, ele também ensina funções, módulos e pacotes. 
 
 ## Como usar
 
