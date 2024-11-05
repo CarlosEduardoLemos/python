@@ -4,4 +4,4 @@ pygame.mixer.music.load('loveofmylife.mp3')
 pygame.mixer.music.play()
 pygame.event.wait()
 
-#Não sei o porque do programa não rodar a música
+#Não sei o motivo do programa não rodar a música
